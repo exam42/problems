@@ -1,0 +1,2 @@
+To find the common prime factors of two numbers.
+Enter the first number: Enter the second number: The common prime factor of 10 and 4 is 2.

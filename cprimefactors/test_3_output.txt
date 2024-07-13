@@ -1,0 +1,2 @@
+To find the common prime factors of two numbers.
+Enter the first number: Enter the second number: There are no common prime factors for 9 and 4.

@@ -1,0 +1,21 @@
+To find the common prime factors of two numbers.
+Enter the first number: 12
+Enter the second number: 18
+The common prime factors of 12 and 18 are 2, 3.
+
+To find the common prime factors of two numbers.
+Enter the first number: 210
+Enter the second number: 2730
+The common prime factors of 210 and 2730 are 2, 3, 5, 7.
+
+
+To find the common prime factors of two numbers.
+Enter the first number: 9
+Enter the second number: 4
+There are no common prime factors for 9 and 4.
+
+
+To find the common prime factors of two numbers.
+Enter the first number: 10
+Enter the second number: 4
+The common prime factor of 10 and 4 is 2.
