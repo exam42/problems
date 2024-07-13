@@ -1,4 +1,3 @@
-
 import check50
 import check50.c
 
