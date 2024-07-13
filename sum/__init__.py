@@ -1,4 +1,3 @@
-
 import check50
 import check50.c
 
@@ -9,6 +8,7 @@ def exists():
     check50.include("sum_2_3_input.txt", "sum_2_3_output.txt")
     check50.include("sum_20_22_input.txt", "sum_20_22_output.txt")
     check50.include("sum_10_20_input.txt", "sum_10_20_output.txt")
+
 
 @check50.check(exists)
 def compiles():
