@@ -1,0 +1,2 @@
+To find the common prime factors of two numbers.
+Enter the first number: Enter the second number: The common prime factors of 6469693230 and 12939386460 are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.

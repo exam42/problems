@@ -11,6 +11,7 @@ def exists():
     check50.include("../../cprimefactors/test_4_input.txt", "../../cprimefactors/test_4_output.txt")
     check50.include("../../cprimefactors/test_5_input.txt", "../../cprimefactors/test_5_output.txt")
     check50.include("../../cprimefactors/test_6_input.txt", "../../cprimefactors/test_6_output.txt")
+    check50.include("../../cprimefactors/test_7_input.txt", "../../cprimefactors/test_7_output.txt")
 
 @check50.check(exists)
 def compiles():
@@ -51,6 +52,12 @@ def test_5():
 def test_6():
     """test_6"""
     test_input_output("test_6_input.txt", "test_6_output.txt")
+
+
+@check50.check(compiles)
+def test_7():
+    """test_7"""
+    test_input_output("test_7_input.txt", "test_7_output.txt")
 
 
 # Helpers
