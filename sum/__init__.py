@@ -6,9 +6,9 @@ import check50.c
 def exists():
     """sum.c exists"""
     check50.exists("sum.c")
-    check50.include("../../sum/sum_2_3_input.txt", "../../sum/sum_2_3_output.txt")
-    check50.include("../../sum/sum_20_22_input.txt", "../../sum/sum_20_22_output.txt")
-    check50.include("../../sum/sum_10_20_input.txt", "../../sum/sum_10_20_output.txt")
+    check50.include("sum_2_3_input.txt", "sum_2_3_output.txt")
+    check50.include("sum_20_22_input.txt", "sum_20_22_output.txt")
+    check50.include("sum_10_20_input.txt", "sum_10_20_output.txt")
 
 @check50.check(exists)
 def compiles():

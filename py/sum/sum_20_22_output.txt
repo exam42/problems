@@ -1,2 +1,0 @@
-To add two numbers.
-Enter the first number: Enter the second number: The sum of 20 and 22 is 42.
