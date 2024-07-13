@@ -28,7 +28,7 @@ def sum_10_20():
 
 
 # Helpers
-def test_input_output(executable, input_file, output_file):
+def test_input_output(input_file, output_file):
     """A function to test a single input/output pair"""
     executable = "python3 sum.py"
     check50.run(executable).stdin(open(input_file).read(), prompt=False).stdout(open(output_file).read(), regex=False).exit()
